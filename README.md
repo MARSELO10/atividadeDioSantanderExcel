@@ -1,5 +1,7 @@
 📊 Simulador de Investimentos
+
 ✅ Descrição Geral
+
 Esta planilha foi desenvolvida para simular investimentos financeiros ao longo do tempo, possibilitando a visualização da evolução do patrimônio considerando aportes mensais, rentabilidade e tempo de aplicação. O objetivo é auxiliar na tomada de decisões relacionadas a investimentos e planejamento financeiro pessoal.
 
 🗂️ Estrutura da Planilha
